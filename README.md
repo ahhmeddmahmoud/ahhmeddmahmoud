@@ -3,9 +3,7 @@
 </h1>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+<br><br> 
 </p>
 
 - 👨‍💻 I'm a Computer Science student with a passion for software development, specializing in mobile application development. With experience in multiple programming languages such as Python, Java, and Kotlin, I enjoy building efficient and scalable applications.
