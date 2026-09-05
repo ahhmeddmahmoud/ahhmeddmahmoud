@@ -104,7 +104,7 @@ A WhatsApp-inspired chat interface focused on layout precision and user experien
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mahmoud-903831374/">
+  <a href="www.linkedin.com/in/ahmed-mahmoud-5b033a386">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/ahhmeddmahmoud">
