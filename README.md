@@ -14,39 +14,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at Arab Open University with a focus on **Flutter & Dart** mobile development. I enjoy turning designs into clean, responsive, cross-platform apps, and I care about writing code that's maintainable and easy to build on.
+I'm a Computer Science student at Arab Open University with a strong interest in **Flutter and Dart mobile development**.
 
-- 🎓 Computer Science student at Arab Open University
-- 📱 Building cross-platform mobile apps with Flutter & Dart
+I enjoy building clean, responsive, and user-friendly mobile interfaces while continuously improving my programming and software development skills.
+
+- 🎓 Computer Science Student at Arab Open University
+- 📱 Learning and building mobile applications with Flutter & Dart
 - 🚀 Currently training through the **Digital Egypt Pioneers Initiative (DEPI)**
-- 🧠 Strong foundation in OOP, Data Structures, Algorithms, and Problem Solving
-- 🌱 Always learning — currently deepening my state management and clean architecture skills
-- 📫 Open to Flutter internship/junior opportunities
+- 🧠 Knowledge of OOP, Data Structures, Algorithms, and Problem Solving
+- 💻 Familiar with Git, GitHub, VS Code, and Android Studio
+- 📄 Familiar with Microsoft Office applications
+- 🌱 Currently improving my Flutter development and software engineering skills
+- 💼 Open to freelance projects, internships, and junior opportunities
 
 <br>
 
-## 💼 Experience
+## 🎓 Training
 
-**Flutter Mobile Application Development Intern**
-*Digital Egypt Pioneers Initiative (DEPI)*
+### Digital Egypt Pioneers Initiative (DEPI)
 
-- Developed mobile app features using Flutter and Dart
-- Built responsive UI layouts and implemented state management
-- Applied clean code principles and software engineering best practices
-- Collaborated with a development team across the full project lifecycle
+**Flutter Mobile Application Development**
+
+- Developing mobile interfaces using Flutter and Dart
+- Building responsive UI layouts
+- Working with reusable and modular Flutter widgets
+- Practicing state management concepts
+- Applying clean code and software engineering principles
+- Working on practical Flutter projects
 
 <br>
 
 ## 🛠️ Tech Stack
 
-**Mobile Development**
+### 📱 Mobile Development
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
-**Programming & CS Fundamentals**
+### 💻 Programming & CS Fundamentals
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -56,13 +63,14 @@ I'm a Computer Science student at Arab Open University with a focus on **Flutter
   <img src="https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge">
 </p>
 
-**Tools**
+### 🧰 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </p>
 
 <br>
@@ -70,21 +78,48 @@ I'm a Computer Science student at Arab Open University with a focus on **Flutter
 ## 🚀 Projects
 
 ### 📱 Profile & Settings Mobile UI
-`Flutter` `Dart`
 
-Cross-platform mobile UI featuring a profile header, navigation menu, and settings list, built with reusable Flutter widgets and Material Design principles for a clean, maintainable structure.
+**Flutter | Dart**
+
+A clean and responsive mobile UI featuring a profile header, navigation menu, and settings list.
+
+The project focuses on:
+
+- Reusable Flutter widgets
+- Clean UI structure
+- Responsive layouts
+- Material Design principles
+
+🔗 **Repository:**  
+https://github.com/ahhmeddmahmoud/flutter-profile-ui
+
+---
 
 ### 💬 WhatsApp Screen UI
-`Flutter` `Dart`
 
-A WhatsApp-inspired chat interface focused on layout precision and user experience, built entirely with modular, reusable Flutter widgets.
+**Flutter | Dart**
+
+A WhatsApp-inspired chat interface built with Flutter, focusing on accurate UI layout and reusable components.
+
+The project includes:
+
+- Custom AppBar
+- Chat messages
+- Input bar
+- Reusable widgets
+- Clean and organized UI structure
+
+🔗 **Repository:**  
+https://github.com/ahhmeddmahmoud/whatsapp-screen
 
 <br>
 
 ## 🎓 Education
 
 **Computer Science — Arab Open University**
-📅 September 2023 – June 2027 &nbsp;|&nbsp; 📍 Shorouk City, Egypt
+
+📅 September 2023 – June 2027  
+📍 Shorouk City, Egypt
 
 <br>
 
@@ -104,18 +139,23 @@ A WhatsApp-inspired chat interface focused on layout precision and user experien
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="[www.linkedin.com/in/ahmed-mahmoud-5b033a386](https://www.linkedin.com/in/ahmed-mahmoud-5b033a386?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
+
+  <a href="https://www.linkedin.com/in/ahmed-mahmoud-5b033a386/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://github.com/ahhmeddmahmoud">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://www.facebook.com/ahmed.mahmoud.867356">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
+
   <a href="https://www.instagram.com/ahmedd__mahmmoudd/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
 </p>
 
 <p align="center">
